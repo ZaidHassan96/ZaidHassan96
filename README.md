@@ -1,16 +1,27 @@
 ### Hi there 👋
 
-<!--
-**ziani96/ziani96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a northcoders Software Engineering graduate currently based in London 🌆
 
-Here are some ideas to get you started:
+I am currently diving into Python as I'm deeply passionate about AI and machine learning 🤖
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am always up for new challenges especially when it includes working as a team 🤝
+
+ My current skills include-
+* Languages: JavaScript and TypeScript using Node.js and browsers as environment, Structured Query Language(SQL), Testing: TDD (Test Driven Development), Jest, Supertest, seeding, migrations 
+* Front-end: HTML, CSS, React, Data Fetching (Axios, UseEffect), Object Orientated Programming(OOP)
+* Hosting: Cloudflare, Netlify, Render
+* Back-end: Node.js, Express.js framework, SQL Databases (PostgreSQL), RESTful API Development,
+Version Control: Proficient in version control using Git for tracking changes, collaboration, and maintaining code integrity.
+* Other: Paired programming, technical communication, Software development lifecycle(SDL), Agile and SCRUM methodologies
+
+
+
+
+
+
+
+
+
+
+
+
