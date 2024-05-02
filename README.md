@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a north coders Software Engineering graduate currently based in London 🌆
+I am a NorthCoders Software Engineering graduate currently based in London 🌆
 
 I am currently diving into Python as I'm deeply passionate about AI and machine learning 🤖
 
