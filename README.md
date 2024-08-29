@@ -2,7 +2,9 @@
 
 I am a NorthCoders Software Engineering graduate currently based in London 🌆
 
-I am currently diving into Python as I'm deeply passionate about AI and machine learning 🤖
+I'm deeply passionate about AI and machine learning 🤖
+
+I am working on my blog site, which is powered by the Django web framework.
 
 I am always up for new challenges especially when it includes working as a team 🤝
 
