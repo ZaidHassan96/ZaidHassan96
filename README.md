@@ -4,7 +4,7 @@ I am a NorthCoders Software Engineering graduate currently based in London 🌆
 
 I'm deeply passionate about AI and machine learning 🤖
 
-I am currently working on a bespoke (SE/DE select relevant) product for internal development, as part of the Launchpad project.  
+I am currently developing a bespoke product called VitalFit as a freelance consultant for internal use within the Launchpad project. You can view the project on my GitHub.
 
 I am always up for new challenges especially when it includes working as a team 🤝
 
