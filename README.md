@@ -1,21 +1,24 @@
 ### Hi there 👋
 
-I am a NorthCoders Software Engineering graduate currently based in London 🌆
+I’m a NorthCoders Software Engineering graduate based in London, with a strong passion for AI and Machine Learning. I'm always up for new challenges, especially in collaborative team environments 🤝.
 
-I'm deeply passionate about AI and machine learning 🤖
-
-I am always up for new challenges especially when it includes working as a team 🤝
-
- My current skills include-
-* Languages: Python, JavaScript and TypeScript using Node.js and browsers as environment, Structured Query Language(SQL),
-* Testing: TDD (Test Driven Development), Jest, Supertest, seeding, migrations 
-* Front-end: HTML, CSS, React, React Native, Data Fetching (Axios, UseEffect), Object Orientated Programming(OOP)
-* Hosting: Cloudflare, Netlify, Render, AWS ElasticBeanstalk
-* Back-end: Django, Node.js, Express.js framework, SQL Databases (PostgreSQL), RESTful API Development, Firebase, MongoDB
-Version Control: Proficient in version control using Git for tracking changes, collaboration, and maintaining code integrity.
-* Other: Paired programming, technical communication, Software development lifecycle(SDL), Agile and SCRUM methodologies
+Check out my latest project, [**AskIQ**](https://github.com/chingu-voyages/V54-tier3-team-35), a group project where we follow Agile SCRUM methodology to help users structure their AI queries for more accurate and relevant responses. Built with React, Node.js, and integrated with Google Gemini, it enables enhanced AI interaction.
 
 
+
+#### 💼 Core Skills
+- **Languages:** Python, JavaScript and TypeScript.
+- **Testing & Development:** TDD, Jest and Unit Testing.
+- **Frontend:** React, React Native, HTML and CSS.
+- **Backend:** Django, Node.js, Express.js, RESTful API, PostgreSQL.
+- **Data:** Pandas, Matplotlib, Seaborn (Data Analysis, Visualization, and Exploration)
+- **Version Control:** Git (Collaboration & Code Integrity)
+- **Hosting & Cloud:** AWS, Netlify and Render.
+
+#### 📚 Methodologies
+- **Object-Oriented Programming (OOP)**
+- **Agile & SCRUM**
+- **Paired Programming**
 
 
 
